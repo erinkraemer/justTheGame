@@ -2,7 +2,7 @@
   "name": "my-npm-pkg",
   "version": "0.0.0",
   "description": "initial",
-  "main": "UnityLoader.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
