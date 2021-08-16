@@ -1,0 +1,26 @@
+{
+  "name": "my-npm-pkg",
+  "version": "0.0.0",
+  "description": "initial",
+  "main": "UnityLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erinkraemer/justTheGame.git"
+  },
+  "keywords": [
+    "vehical",
+    "heroku",
+    "getaway",
+    "webgl",
+    "unity"
+  ],
+  "author": "erin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/erinkraemer/justTheGame/issues"
+  },
+  "homepage": "https://github.com/erinkraemer/justTheGame#readme"
+}
